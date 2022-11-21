@@ -5,12 +5,25 @@
 
 ## Contents
 
+* [공부 우선순위](#공부순서-당장할꺼)
 * [Spring](#Spring) 
 * [Language](#Language)
 * [Deploy](#Deploy)
 * [Architecture](#Architecture)
 * [Network](#Network)
 * [Middle](#Middle)
+
+---
+## 공부순서 (당장할꺼)
+
+* GitAction
+* OSI 7계층, TCP/IP 4계층 : 프로토콜 구글문서 정리
+* hateoas
+  * 프로젝트로 구현
+  * 구글문서 정리
+* Hexagonal(육각형) Architecture
+  * 프로젝트로 구현
+  * 구글문서 정리
 
 ---
 
@@ -59,6 +72,7 @@
 * OSI 7계층, TCP/IP 4계층
   * 각종 프로토콜 학습 (http, ws, 기타 등등)
 * gRPC
+* hateoas
 
 ## Middle
 
