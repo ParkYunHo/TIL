@@ -91,3 +91,4 @@
 * Ceph : 스토리지 플랫폼
 * 코루틴 : 비동기
 * JNDI
+* APNs : IOS push서버
