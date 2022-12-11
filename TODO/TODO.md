@@ -51,6 +51,8 @@
   * dockerhub에 올린 이미지 pull 받아와서 oci에 배포
 * ArgoCD
 * GoCD
+* TravisCI
+* CircleCI
 * Spinnaker
 * Harbor
   * 컨테이너 이미지 레지스트리
@@ -92,3 +94,7 @@
 * 코루틴 : 비동기
 * JNDI
 * APNs : IOS push서버
+* ATDD : 인수 테스트주도 개발
+* JIB
+  * 구글에서 개발한 컨테이너이미지 개발도구
+  * Dockerfile없이 빌드 (즉, Docker daemon 필요없음)
