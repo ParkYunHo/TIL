@@ -24,6 +24,7 @@
 * Hexagonal(육각형) Architecture
   * 프로젝트로 구현
   * 구글문서 정리
+* Spring boot 3.0(Spring 6.0) 학습 (java17버전도 학습)
 
 ---
 
