@@ -16,15 +16,15 @@
 ---
 ## 공부순서 (당장할꺼)
 
-* GitAction
+* ~~GitAction~~
 * OSI 7계층, TCP/IP 4계층 : 프로토콜 구글문서 정리
-* hateoas
-  * 프로젝트로 구현
-  * 구글문서 정리
+* Rest 6원칙 (SSC ULC)
+  * ~~구글문서 정리~~
+  * 프로젝트 구현
 * Hexagonal(육각형) Architecture
-  * 프로젝트로 구현
+  * ~~프로젝트로 구현~~
   * 구글문서 정리
-* Spring boot 3.0(Spring 6.0) 학습 (java17버전도 학습)
+* ~~Spring boot 3.0(Spring 6.0) 학습 (java17버전도 학습)~~
 
 ---
 
